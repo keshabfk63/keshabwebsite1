@@ -1,0 +1,32 @@
+*{  
+	margin:0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+body{
+	margin: 0px;
+	
+}
+.navbar{
+	background: linear-gradient(to right,red,yellow);
+	color: white;
+}
+.nav-item{
+	list-style-type: none;
+	padding: 20px;
+	font-size: 24px;
+}
+.a1{
+	color: black!important;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: capitalize;
+	transition: 0.7s;
+}
+.a1:hover{
+	color:#540554!important;
+	transition: 0.4s;
+	text-decoration: none;	
+}
+
+

@@ -1,0 +1,12 @@
+﻿body
+{
+    margin:0px;
+    
+    
+}
+.wave {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/disney.webp");
+    backgrond-size: cover;
+}
